@@ -1,0 +1,238 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2026-09-20T18:16:45.093440+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/Kraneee25/Solving-Burgers-Equation-using-Preconditioned-GMRES",
+    "code:developmentStatus": {
+      "id": "active",
+      "title": {
+        "en": "Active"
+      }
+    },
+    "code:programmingLanguage": [
+      {
+        "id": "python",
+        "title": {
+          "en": "Python"
+        }
+      }
+    ]
+  },
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "NUMN28___Project (1).pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:6af5e7930e9eed3252057de1dca206df",
+        "ext": "pdf",
+        "id": "9917541e-734b-410e-acbd-6dbfbbce3413",
+        "key": "NUMN28___Project (1).pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/22859287/files/NUMN28___Project%20(1).pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:22859287:NUMN28___Project%20(1).pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:22859287:NUMN28___Project%20(1).pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:22859287/canvas/NUMN28___Project%20(1).pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:22859287:NUMN28___Project%20(1).pdf/info.json",
+          "self": "https://zenodo.org/api/records/22859287/files/NUMN28___Project%20(1).pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 3108561,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 3108561
+  },
+  "id": "22859287",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/22859287/access",
+    "access_grants": "https://zenodo.org/api/records/22859287/access/grants",
+    "access_links": "https://zenodo.org/api/records/22859287/access/links",
+    "access_request": "https://zenodo.org/api/records/22859287/access/request",
+    "access_users": "https://zenodo.org/api/records/22859287/access/users",
+    "archive": "https://zenodo.org/api/records/22859287/files-archive",
+    "archive_media": "https://zenodo.org/api/records/22859287/media-files-archive",
+    "communities": "https://zenodo.org/api/records/22859287/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/22859287/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.22859287",
+    "draft": "https://zenodo.org/api/records/22859287/draft",
+    "file_modification": "https://zenodo.org/api/records/22859287/file-modification",
+    "files": "https://zenodo.org/api/records/22859287/files",
+    "latest": "https://zenodo.org/api/records/22859287/versions/latest",
+    "latest_html": "https://zenodo.org/records/22859287/latest",
+    "media_files": "https://zenodo.org/api/records/22859287/media-files",
+    "parent": "https://zenodo.org/api/records/22859286",
+    "parent_doi": "https://doi.org/10.5281/zenodo.22859286",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.22859286",
+    "parent_html": "https://zenodo.org/records/22859286",
+    "preview_html": "https://zenodo.org/records/22859287?preview=1",
+    "quota_increase": "https://zenodo.org/api/records/22859287/quota-increase",
+    "request_deletion": "https://zenodo.org/api/records/22859287/request-deletion",
+    "requests": "https://zenodo.org/api/records/22859287/requests",
+    "reserve_doi": "https://zenodo.org/api/records/22859287/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/22859287",
+    "self_doi": "https://doi.org/10.5281/zenodo.22859287",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.22859287",
+    "self_html": "https://zenodo.org/records/22859287",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:22859287/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:22859287/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:22859287:NUMN28___Project%20(1).pdf/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:22859287:NUMN28___Project%20(1).pdf/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:22859287:NUMN28___Project%20(1).pdf/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:22859287:NUMN28___Project%20(1).pdf/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:22859287:NUMN28___Project%20(1).pdf/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:22859287:NUMN28___Project%20(1).pdf/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/22859287/versions"
+  },
+  "media_files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "NUMN28___Project (1).pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "29f25f1b-6049-4de1-ad83-9ec5f07d8556",
+        "key": "NUMN28___Project (1).pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/22859287/files/NUMN28___Project%20(1).pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/22859287/files/NUMN28___Project%20(1).pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "9917541e-734b-410e-acbd-6dbfbbce3413",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Ediza Dabatos",
+          "given_name": "Krane Kint",
+          "name": "Ediza Dabatos, Krane Kint",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>A numerical implementation for solving the one-dimensional Burgers' equation using a first-order finite volume method.</p>\n<p>The spatial domain is discretized on a uniform grid, and the governing equation is integrated over each finite volume cell. The solution is represented by cell averages, and an upwind flux is used to approximate the flux across cell interfaces. For a uniform one-dimensional grid, each cell has a volume equal to the spatial grid spacing, which leads to a straightforward finite volume discretization.</p>\n<p>Time integration is performed using the explicit Euler method, resulting in an iterative scheme where the solution in each cell is updated based on the flux difference between neighboring cells.</p>\n<p>As a further development of the project, the finite volume discretization will be reformulated as a linear system of equations. This system will be solved using GMRES, with a multigrid method used as a preconditioner to improve the efficiency and convergence of the iterative solver.</p>\n<p>The overall goal is to investigate the numerical solution of Burgers' equation while exploring the use of iterative linear solvers and multigrid preconditioning in the resulting discretized system.</p>",
+    "publication_date": "2026-09-20",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "publication-report",
+      "title": {
+        "de": "Bericht",
+        "en": "Report"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "title": "Numerical solution of the one-dimensional Burgers' equation using GMRES with multigrid preconditioning"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1888599"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "22859286",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.22859286",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.22859287",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:22859287",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 3,
+  "stats": {
+    "all_versions": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2026-09-20T18:16:47.512028+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}
